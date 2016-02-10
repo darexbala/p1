@@ -4,10 +4,10 @@
 <http://p1.doladosu.me>
 
 ## Description
-Project 1.
+Dynamic Web Applications - Project 1.
 
 ## Demo
-<TBD>
+<https://youtu.be/tGdPAhIFh1M>
 
 ## Details for teaching team
 NONE
