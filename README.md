@@ -14,3 +14,5 @@ NONE
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/
+* Template: http://getbootstrap.com/
+* Logo http://logomakr.com/
