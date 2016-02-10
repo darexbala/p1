@@ -10,7 +10,7 @@ Dynamic Web Applications - Project 1.
 <https://youtu.be/tGdPAhIFh1M>
 
 ## Details for teaching team
-NONE
+* Used bower to pull down Bootstrap dependency.
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/
